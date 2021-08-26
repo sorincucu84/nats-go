@@ -1,4 +1,4 @@
-module github.com/nats-io/nats.go
+module github.com/sorincucu84/nats-go
 
 go 1.16
 
